@@ -15,9 +15,9 @@
   <h2>Menu</h2>
   
   <ul>
-  <li><a href="Produtos.jsp">Produtos</a></li>
-   <li><a href="Clientes.jsp">Clientes</a></li>
-    <li><a href="Pedidos.jsp">Pedidos</a></li>
+  <li><a href="produtos.jsp">Produtos</a></li>
+   <li><a href="clientes.jsp">Clientes</a></li>
+    <li><a href="pedidos.jsp">Pedidos</a></li>
   </ul>
   
 </body>
