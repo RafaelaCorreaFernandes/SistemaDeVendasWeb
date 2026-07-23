@@ -4,9 +4,29 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Clientes</title>
 </head>
 <body>
-
+ <form action="ClienteServlet">
+  
+  Nome:<br>
+   <input type="text" name="nome">
+  
+  <br><br>
+  
+  Email: <br>
+  <input type="text" name="email">
+  
+  <br><br>
+  
+  Cpf: <br>
+  <input type="number" name="cpf">
+  
+  <input type="submit" value="cadastrar cliente">
+ 
+  </form>
+ 
+ <a href="index.jsp">Voltar</a>
+ 
 </body>
 </html>
